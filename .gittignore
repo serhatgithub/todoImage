@@ -1,0 +1,14 @@
+# Docker
+.docker/
+docker-compose.override.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database data (Eğer klasöre bağlıyorsan)
+mysql_data/
